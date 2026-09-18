@@ -340,6 +340,11 @@ button:disabled,
 }
 
 /* Секции и сетки контента */
+.content-section {
+  scroll-margin-top: 90px;
+  margin-bottom: var(--space-xxl);
+}
+
 .section-title {
   font-size: 2rem;
   font-weight: 800;
